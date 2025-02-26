@@ -1,4 +1,4 @@
-package stacks;
+
 import java.util.*;
 public class StackOperation {
     //Push operation
